@@ -1,70 +1,196 @@
 {
-  "minecraft:recipes/transportation/mangrove_boat": {
+  "undead_revamp2:theundeadchallenges": {
     "criteria": {
-      "in_water": "2025-06-19 20:44:53 +0000"
+      "theundeadchallenges_0": "2025-06-20 19:53:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
+  "farmersdelight:main/root": {
     "criteria": {
-      "unlock_right_away": "2025-06-19 20:44:11 +0000"
+      "seeds": "2025-06-20 19:53:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
+  "cataclysm:root": {
     "criteria": {
-      "in_water": "2025-06-19 20:44:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_boat": {
-    "criteria": {
-      "in_water": "2025-06-19 20:44:53 +0000"
+      "custom_test_name": "2025-06-20 19:53:44 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:frozen_ocean": "2025-06-19 20:44:53 +0000",
-      "minecraft:snowy_beach": "2025-06-19 20:44:12 +0000"
+      "quark:glimmering_weald": "2025-06-20 21:16:07 +0000",
+      "minecraft:beach": "2025-06-20 20:39:39 +0000",
+      "minecraft:sparse_jungle": "2025-06-20 20:36:57 +0000",
+      "minecraft:river": "2025-06-20 20:36:52 +0000",
+      "minecraft:lush_caves": "2025-06-20 20:54:24 +0000",
+      "minecraft:jungle": "2025-06-20 19:53:45 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-20 20:57:05 +0000",
+      "minecraft:plains": "2025-06-20 21:41:33 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/transportation/bamboo_raft": {
+  "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "in_water": "2025-06-19 20:44:53 +0000"
+      "cooked_beef": "2025-06-20 21:09:32 +0000",
+      "bread": "2025-06-20 21:01:53 +0000",
+      "rotten_flesh": "2025-06-20 20:38:50 +0000",
+      "glow_berries": "2025-06-20 21:13:23 +0000",
+      "melon_slice": "2025-06-20 20:50:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-20 20:38:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
+  "undead_revamp2:sugarcoat": {
     "criteria": {
-      "in_water": "2025-06-19 20:44:53 +0000"
+      "sugarcoat_0": "2025-06-20 20:42:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "in_water": "2025-06-19 20:44:53 +0000"
+      "iron_leggings": "2025-06-20 20:44:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
+  "minecraft:story/mine_stone": {
     "criteria": {
-      "in_water": "2025-06-19 20:44:53 +0000"
+      "get_stone": "2025-06-20 20:45:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
+  "immersive_paintings:misc/glow_painting": {
     "criteria": {
-      "in_water": "2025-06-19 20:44:53 +0000"
+      "has_item": "2025-06-20 20:45:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "minecraft:story/upgrade_tools": {
     "criteria": {
-      "in_water": "2025-06-19 20:44:53 +0000"
+      "stone_pickaxe": "2025-06-20 20:49:56 +0000"
     },
     "done": true
   },
-  "DataVersion": 3955
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-06-20 21:06:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-06-20 21:14:46 +0000",
+      "minecraft:cave_spider": "2025-06-20 21:15:19 +0000",
+      "minecraft:zombie": "2025-06-20 21:06:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-06-20 21:06:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-06-20 21:12:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "glow_berries": "2025-06-20 21:15:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-20 21:22:09 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nightnight": {
+    "criteria": {
+      "nightnight_0": "2025-06-20 21:22:47 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-06-20 21:24:37 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-06-20 21:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-06-20 21:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-20 21:30:47 +0000"
+    },
+    "done": true
+  },
+  "jeg:scrap": {
+    "criteria": {
+      "Item": "2025-06-20 21:42:03 +0000"
+    },
+    "done": true
+  },
+  "jeg:root": {
+    "criteria": {
+      "Item": "2025-06-20 21:42:03 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/ghostly_pickaxe": {
+    "criteria": {
+      "ghostly_pickaxe": "2025-06-20 21:48:02 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/root": {
+    "criteria": {
+      "iammusicplayer": "2025-06-20 22:04:15 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/add_music": {
+    "criteria": {
+      "add_music": "2025-06-20 22:11:34 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/write_cassette_tape": {
+    "criteria": {
+      "write_cassette_tape": "2025-06-20 22:12:23 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/listen_to_music": {
+    "criteria": {
+      "listen_to_music": "2025-06-20 22:12:57 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/listen_to_remote_music": {
+    "criteria": {
+      "listen_to_remote_music": "2025-06-20 22:15:49 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
 }
