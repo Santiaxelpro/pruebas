@@ -7382,3 +7382,22 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:enchanted_count_inc
 [21Jun2025 15:56:39.857] [Worker-Main-3/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
 [21Jun2025 15:56:40.296] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
 [21Jun2025 15:56:41.335] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[21Jun2025 15:58:04.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 15:58:04.219] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 16:03:04.201] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 16:03:04.213] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 16:05:22.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiaxelpro has completed the challenge [Well, that was disgusting]
+[21Jun2025 16:07:08.895] [Server thread/DEBUG] [mixin/]: Mixing compat119plus.LookTargetUtilMixin from pehkui.mixins.json into net.minecraft.world.entity.ai.behavior.BehaviorUtils
+[21Jun2025 16:08:04.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 16:08:04.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 16:08:27.220] [Server thread/DEBUG] [mixin/]: Mixing EntitySelectorMixin from pehkui.mixins.json into net.minecraft.commands.arguments.selector.EntitySelector
+[21Jun2025 16:08:27.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santiaxelpro: Teleported Santiaxelpro to atrexxx]
+[21Jun2025 16:09:27.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santiaxelpro: Set own game mode to Spectator Mode]
+[21Jun2025 16:09:37.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [atrexxx: Teleported Santiaxelpro to atrexxx]
+[21Jun2025 16:09:41.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santiaxelpro: Set own game mode to Survival Mode]
+[21Jun2025 16:09:52.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiaxelpro has made the advancement [Take Aim]
+[21Jun2025 16:10:23.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santiaxelpro: Teleported Santiaxelpro to atrexxx]
+[21Jun2025 16:13:04.192] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 16:13:04.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 16:18:04.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 16:18:04.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
