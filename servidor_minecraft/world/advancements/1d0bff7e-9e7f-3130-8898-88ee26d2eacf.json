@@ -22,6 +22,8 @@
       "quark:glimmering_weald": "2025-06-20 21:16:09 +0000",
       "minecraft:sparse_jungle": "2025-06-20 20:37:12 +0000",
       "minecraft:river": "2025-06-20 20:36:57 +0000",
+      "minecraft:dripstone_caves": "2025-06-21 16:34:20 +0000",
+      "minecraft:forest": "2025-06-21 16:34:42 +0000",
       "minecraft:lush_caves": "2025-06-20 20:58:47 +0000",
       "minecraft:jungle": "2025-06-20 19:48:38 +0000",
       "minecraft:plains": "2025-06-20 22:03:25 +0000"
@@ -221,6 +223,24 @@
   "iammusicplayer:iammusicplayer/listen_to_music": {
     "criteria": {
       "listen_to_music": "2025-06-20 22:13:00 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nicehousebro": {
+    "criteria": {
+      "nicehousebro_0": "2025-06-21 16:29:10 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:defeatundeadbosses": {
+    "criteria": {
+      "defeatundeadbosses_0": "2025-06-21 16:29:10 +0000"
+    },
+    "done": true
+  },
+  "jeg:grenade": {
+    "criteria": {
+      "Item": "2025-06-21 16:38:03 +0000"
     },
     "done": true
   },
